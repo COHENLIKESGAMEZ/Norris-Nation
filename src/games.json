@@ -1,0 +1,98 @@
+[
+  {
+    "id": "drive-mad",
+    "title": "Drive Mad",
+    "description": "A high-octane driving game where you must reach the finish line without crashing.",
+    "iframeUrl": "https://www.gamepix.com/play/drive-mad?embed=1",
+    "thumbnail": "https://images.unsplash.com/photo-1594731884353-84065269f836?q=80&w=1600&auto=format&fit=crop",
+    "category": "Driving"
+  },
+  {
+    "id": "drift-boss",
+    "title": "Drift Boss",
+    "description": "Test your drifting skills in this challenging endless runner.",
+    "iframeUrl": "https://www.gamepix.com/play/drift-boss?embed=1",
+    "thumbnail": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?q=80&w=1600&auto=format&fit=crop",
+    "category": "Drift"
+  },
+  {
+    "id": "moto-x3m",
+    "title": "Moto X3M",
+    "description": "The ultimate bike racing game with challenging levels and stunts.",
+    "iframeUrl": "https://www.gamepix.com/play/moto-x3m?embed=1",
+    "thumbnail": "https://images.unsplash.com/photo-1558981403-c5f9899a28bc?q=80&w=1600&auto=format&fit=crop",
+    "category": "Racing"
+  },
+  {
+    "id": "madalin-stunt-cars-2",
+    "title": "Madalin Stunt Cars 2",
+    "description": "Perform amazing stunts with high-performance supercars.",
+    "iframeUrl": "https://www.gamepix.com/play/madalin-stunt-cars-2?embed=1",
+    "thumbnail": "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?q=80&w=1600&auto=format&fit=crop",
+    "category": "Stunts"
+  },
+  {
+    "id": "eggy-car",
+    "title": "Eggy Car",
+    "description": "Drive carefully and don't break the egg!",
+    "iframeUrl": "https://www.gamepix.com/play/eggy-car?embed=1",
+    "thumbnail": "https://images.unsplash.com/photo-1532581291347-9c39cf10a73c?q=80&w=1600&auto=format&fit=crop",
+    "category": "Skill"
+  },
+  {
+    "id": "slope",
+    "title": "Slope",
+    "description": "Roll down the slope as fast as you can.",
+    "iframeUrl": "https://www.gamepix.com/play/slope?embed=1",
+    "thumbnail": "https://images.unsplash.com/photo-1519750157634-b6d493a0f77c?q=80&w=1600&auto=format&fit=crop",
+    "category": "Speed"
+  },
+  {
+    "id": "subway-surfers",
+    "title": "Subway Surfers",
+    "description": "Dash as fast as you can! Dodge the oncoming trains!",
+    "iframeUrl": "https://www.gamepix.com/play/subway-surfers?embed=1",
+    "thumbnail": "https://images.unsplash.com/photo-1551103782-8ab07afd45c1?q=80&w=1600&auto=format&fit=crop",
+    "category": "Action"
+  },
+  {
+    "id": "basketball-stars",
+    "title": "Basketball Stars",
+    "description": "Show off your basketball skills in this competitive sports game.",
+    "iframeUrl": "https://www.gamepix.com/play/basketball-stars?embed=1",
+    "thumbnail": "https://images.unsplash.com/photo-1546519638-68e109498ffc?q=80&w=1600&auto=format&fit=crop",
+    "category": "Sports"
+  },
+  {
+    "id": "tunnel-rush",
+    "title": "Tunnel Rush",
+    "description": "Fast-paced avoidance game through a colorful tunnel.",
+    "iframeUrl": "https://www.gamepix.com/play/tunnel-rush?embed=1",
+    "thumbnail": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?q=80&w=1600&auto=format&fit=crop",
+    "category": "Speed"
+  },
+  {
+    "id": "vex-7",
+    "title": "Vex 7",
+    "description": "The latest installment in the challenging stickman platformer series.",
+    "iframeUrl": "https://www.gamepix.com/play/vex-7?embed=1",
+    "thumbnail": "https://images.unsplash.com/photo-1552824734-80467512617d?q=80&w=1600&auto=format&fit=crop",
+    "category": "Platform"
+  },
+  {
+    "id": "soccer-skills",
+    "title": "Soccer Skills",
+    "description": "Compete in the world cup and lead your team to victory.",
+    "iframeUrl": "https://www.gamepix.com/play/soccer-skills-world-cup?embed=1",
+    "thumbnail": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?q=80&w=1600&auto=format&fit=crop",
+    "category": "Sports"
+  },
+  {
+    "id": "bob-the-robber-2",
+    "title": "Bob the Robber 2",
+    "description": "Help Bob steal the loot in this stealthy puzzle game.",
+    "iframeUrl": "https://www.gamepix.com/play/bob-the-robber-2?embed=1",
+    "thumbnail": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=1600&auto=format&fit=crop",
+    "category": "Puzzle"
+  }
+]
